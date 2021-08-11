@@ -14,21 +14,21 @@ The following are the credentials to use while logging into the system:
 
 ADMINISTRATOR:
 
-Username: Admin
+Username: Admin , 
 Password: genesisgab
 
 MANAGER:
 
-Username: JJ
+Username: JJ , 
 Password: 124567890
 
 TENANT:
 
-1. Username: geneswaa
+1. Username: geneswaa , 
 Password: genesisgab
 
-2. Username: emanuel
+2. Username: emanuel , 
 Password: 123456789
 
-3. Username: narindwa
+3. Username: narindwa , 
 Password: genesisgloria
