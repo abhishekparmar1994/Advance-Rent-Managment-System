@@ -11,16 +11,19 @@ How to install:
 
 The following are the credentials to use while logging into the system:
 
-PASSWORD:
+
 ADMINISTRATOR:
+
 Username: Admin
 Password: genesisgab
 
 MANAGER:
+
 Username: JJ
 Password: 124567890
 
 TENANT:
+
 1. Username: geneswaa
 Password: genesisgab
 
